@@ -1,0 +1,5 @@
+Title: Task 1
+Author: Filipe Carvalho
+This is the first task requested for the module of Programming for Data Analytics.
+The objective is just to commit something to my assignment repository (anything).
+Thefore, this file meets the criteria and is being commited to my Git Hub assignment repository.
