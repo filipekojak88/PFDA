@@ -1,6 +1,6 @@
 # PFDA
 
-![Programming](https://rp2.center/wp-content/uploads/2023/03/evt2.jpg)
+![Programming](/Users/filipecarvalho/Desktop/PFDA/assignments/10-Reasons-To-Take-A-Data-Science-Course.jpeg)
 *Programming for Data Analytics* [[1]](#1)  
 
 ## About this repository
@@ -13,65 +13,95 @@ MarkDown was used in this README file and was based on [GitHub's Documentation](
 
 ## Getting Started
 
-This project processes and stores weather data using automation and scripting tools. Below is a guide to navigate the structure and use the files:
+Here you can see a brief description on how to navigate through this repository, which contains the completed assignments for the Programming for Data Analytics (PFDA) course:
 
-1. Navigate the Project  
-Use [Computer Infrastructure](https://github.com/filipekojak88/computer_infrastructure/tree/main) to enter the project folder.
+### 1. Navigate the Repository  
+Use the [PFDA repository](https://github.com/filipekojak88/PFDA) to access the assignment folders. 
+For the several assignments completed to master PFDA skills you should access the folder `assignments`. But if you are more interested in the project Windspeed for Windfarms then you should access the folder `project`.
 
-2. Run Automation  
-Trigger workflows via [.github/workflows/weather-data.yml](.github/workflows/weather-data.yml) which runs [weather.sh](weather.sh). The `weather.sh` script downloads and saves Athenry's current weather data from the Met Éireann API with a timestamped filename.
+### 2. Run the Assignments Notebooks and Scripts
+The `assignments` folder includes Jupyter Notebooks and other files used in the notebooks self or as part of the assignments request. These files use extensions such as `.jpeg`, `.txt` and `.csv` files. Below is a breakdown of each Jupyter Notebook:
 
-Some background on `weather-data.yml` workflow:
-- To automate the daily execution of the `weather.sh` script and push weather data to a GitHub repository, a GitHub Actions workflow was created. This involved adding a workflow file (`weather-data.yml`) to the `.github/workflows/` directory of the repository. The workflow is scheduled to run daily at 10 a.m. using the `cron` event and includes a `workflow_dispatch` event to allow manual testing. It uses a Linux-based Ubuntu virtual machine as the environment for running the actions.   
-- The workflow clones the repository, executes the `weather.sh` script to fetch and save the weather data, and then commits and pushes the updated data back to the repository.    
-- After creating and pushing the workflow file, the automation was tested by reviewing the logs in GitHub Actions to confirm the script executed correctly and new weather data was successfully committed to the repository. This was verified with the creation of [20241201_225405.json](data/weather/20241201_225405.json) and Commit message on GitHub [Update weather dta for 2024-12-01 22:54:07](https://github.com/filipekojak88/computer_infrastructure/commit/48b479227817f1ad66c57fcfbee927cea4b8365f).
+#### **Assignment 2: Weather Plot**
+- **File**: `assignment2-weather.ipynb`
+- **Description**: This notebook plots the temperature over time using the `dryBulbTemperature_Celsius` column from a CSV file.
+- **How to Run**: Open the notebook in Jupyter and run the cells to generate a temperature plot.
 
-3. Process Data 
-- Timestamp files: Stored in [data/timestamps/](data/timestamps/).  
-- Downloaded weather data: Check [data/weather/](data/weather/) for timestamped JSON files.
+#### **Assignment 3: Pie Chart of Email Domains**
+- **File**: `assignment03-pie.ipynb`
+- **Description**: This notebook generates a pie chart based on email domains extracted from a CSV file containing 1000 email addresses.
+- **How to Run**: Open the notebook, and run the cells to generate the pie chart.
 
-4. Analyze Weather Data  
-Open [weather.ipynb](weather.ipynb) in Jupyter Notebook to explore and analyze the weather records.
+#### **Assignment 5: Risk Simulation**
+- **File**: `assignment_5_risk.ipynb`
+- **Description**: This script simulates 1000 battle rounds in the board game Risk, plotting the results of dice rolls and troop losses.
+- **How to Run**: Open the notebook in Jupyter to simulate the battle rounds and visualize the results.
 
-Some background on `weather.ipynb` file:
-- The file `weather.ipynb` documents a comprehensive process for weather data collection and analysis using Bash scripting and Python. It begins by outlining tasks such as creating directory structures, generating and formatting timestamps, and automating data downloads from Met Éireann’s API. Each task is meticulously detailed with commands like `mkdir`, `date`, and `wget`, explaining how to dynamically name and save weather data files with timestamps.
-- The later sections cover creating and testing a Bash script (weather.sh) to automate data downloads, and a brief analysis of one of the collected weather data files. The analysis includes a short explanation of the dataset obtained from data.gov.ie, rounding out the report as a complete guide to data acquisition, management, and preliminary examination.
+#### **Assignment 6: Knock Airport Weather Analysis**
+- **File**: `assignment_6_Weather.ipynb`
+- **Description**: This notebook analyzes weather data from Knock Airport, generating plots for temperature, wind speed, and rolling averages.
+- **How to Run**: Open the notebook, and execute the cells to visualize the weather data.
 
-## Use of this project
+### 3. Run the Project Notebook
 
-This project serves as an example of how to automate data collection and analysis tasks using a combination of command-line tools, Bash scripting, Python, and GitHub Actions. In this project, users can learn practical skills for automating data pipelines, working with timestamps, and analyzing weather data programmatically.
+
+
+## Use of This Repository
+
+### Assignments
+
+These assignments how to apply data analysis and simulation techniques using Python, Jupyter Notebooks, and various libraries like Pandas and Matplotlib. It helps students build essential skills in handling and analyzing datasets, creating visualizations, and performing simulations such as weather analysis or game outcomes.
 
 Some suggested applications:
 
-- Educational Value: It demonstrates how to structure a repository, use Linux commands, and create automated workflows with GitHub Actions. Students can adapt this project as a template for other automation tasks involving data collection and processing.
-- Real-World Insights: By integrating weather data from Met Éireann, the project provides an example of how publicly available datasets can be used for meaningful analysis.
+- **Educational Value**: It provides a hands-on approach to learning data manipulation, visualization, and simulation. Students can use these assignments as a template to explore other data analysis tasks and enhance their programming abilities.
+- **Real-World Insights**: By working with weather and simulation data, the assignments showcase how to analyze real-world datasets and make informed decisions, such as predicting trends, simulating outcomes, or exploring statistical patterns.
+
+### Project
+
+
 
 ## Get Help
 
-If questions are raised while checking this project, you can contact me via github, and I will be happy to provide more information. Full list of references is available at the end of this README file and the numbers provided across this README.md and the weather.ipynb files are direct links to their respective references in the reference section, which can provide further insights into the structure and fundamentals used to build this project.
+If you have any questions while exploring this project, feel free to reach out to me via GitHub. I’m happy to offer additional information. A complete list of references can be found at the end of this README file. The reference numbers throughout this `README.md` and the `weather.ipynb` files are clickable links that will take you directly to their corresponding sources in the reference section, offering more details on the concepts and methodologies used in this project.
 
 ## Contribute
 
-This project reflects the author's understanding of data automation and analysis using Python and Bash scripting. Contributions and suggestions to improve the project are highly encouraged, as they can lead to more robust solutions and innovative features.
-Additionally, the step-by-step nature of this project enables others to replicate the process or customize it to analyze datasets from different sources. The automation of daily data collection ensures consistency and demonstrates the practical use of continuous integration tools.
+These assingments and project represent the author's approach regards to data collection, analysis, and visualization using Python and Jupyter notebooks. Contributions are encouraged, especially those that improve the functionality, efficiency, or readability of the scripts, or introduce new features for analyzing different types of datasets.
 
-Contributions are welcome, especially those that improve functionality, enhance the readability of scripts, or add new features for analyzing weather data.
+The step-by-step structure applied in the activities allows others to replicate the process or adapt it to their own datasets, making it a valuable learning resource. The integration of interactive notebooks allows for easy customization and experimentation with various types of data analysis.
+
+Contributions are particularly welcome in the following areas:
+- Enhancing the visualizations or analytical methods.
+- Improving the overall performance of the scripts.
+- Adding new features to extend the functionality of the notebooks.
 
 I used [openincolab.com](https://openincolab.com) to generate the following clickable link.      
-It opens the [weather.ipynb](weather.ipynb) notebook in [Google Colab](https://colab.research.google.com)
+It opens the [assignment2-weather.ipynb](assignment2-weather.ipynb), [assignments/assignment03-pie.ipynb](assignments/assignment03-pie.ipynb), [assignment_5_risk.ipynb](assignment_5_risk.ipynb) and [assignment_6_Weather.ipynb](assignment_6_Weather.ipynb) notebooks in [Google Colab](https://colab.research.google.com) [[5]](#5).
 
-<a target="_blank" href="https://colab.research.google.com/github/filipekojak88/computer_infrastructure/blob/main/weather.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+For those who want to get hands-on with the notebooks, here are clickable links to open each assignment in Google Colab:
+
+- [Assignment 2 - Weather Analysis](https://colab.research.google.com/github/filipekojak88/PFDA/blob/main/assignments/assignment2-weather.ipynb)
+  <br><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  
+- [Assignment 3 - Pie Chart Analysis](https://colab.research.google.com/github/filipekojak88/PFDA/blob/main/assignments/assignment03-pie.ipynb)
+  <br><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  
+- [Assignment 5 - Risk Game Simulation](https://colab.research.google.com/github/filipekojak88/PFDA/blob/main/assignments/assignment_5_risk.ipynb)
+  <br><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  
+- [Assignment 6 - Weather Data Analysis](https://colab.research.google.com/github/filipekojak88/PFDA/blob/main/assignments/assignment_6_Weather.ipynb)
+  <br><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+
+Feel free to fork the repository, make improvements, and submit a pull request. Your contributions will help enhance the project for future learners and data enthusiasts.
 
 ## Author
 
-I am currently a Quality Engineer with a Production Engineering & Management background. Though I have had around 12 years of experience swinging between the medical device and car assembly industry, I am currently chasing a change in my career through this course of Data Analytics in ATU. My long term goal is to move into Artificial Intelligence. If you want to know more about me, please add me on LinkedIn: [Filipe Carvalho](https://www.linkedin.com/in/filipe-carvalho-8146232a/) 
-  
+I am a Quality Engineer with a background in Production Engineering and Management. With approximately 12 years of experience in both the medical device and automotive assembly industries, I am now pursuing a career shift through a Data Analytics course at ATU. My ultimate goal is to transition into the field of Artificial Intelligence. For more information about me, feel free to connect with me on LinkedIn: [Filipe Carvalho](https://www.linkedin.com/in/filipe-carvalho-8146232a/).
   
 # References:
 
-<a id="1">[1]</a> 
+<a id="1">[1]</a> Migrator (no date) 10 reasons to pursue data science course in 2023 and beyond, Analytics Insight. Available at: https://www.analyticsinsight.net/10-reasons-to-pursue-data-science-course-in-2023-and-beyond/ (Accessed: 15 December 2024). 
 
 <a id="2">[2]</a> About readmes (no date) GitHub Docs. Available at: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes (Accessed: 29 April 2024).   
 
@@ -79,4 +109,4 @@ I am currently a Quality Engineer with a Production Engineering & Management bac
 
 <a id="4">[4]</a> Basic writing and formatting syntax (no date) GitHub Docs. Available at: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax (Accessed: 29 April 2024).   
 
-<a id="5">[5]</a>
+<a id="5">[5]</a> (No date) Google colab. Available at: https://colab.research.google.com/ (Accessed: 15 December 2024). 
