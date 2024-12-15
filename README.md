@@ -76,10 +76,7 @@ Contributions are particularly welcome in the following areas:
 - Improving the overall performance of the scripts.
 - Adding new features to extend the functionality of the notebooks.
 
-I used [openincolab.com](https://openincolab.com) to generate the following clickable link.      
-It opens the [assignment2-weather.ipynb](assignment2-weather.ipynb), [assignments/assignment03-pie.ipynb](assignments/assignment03-pie.ipynb), [assignment_5_risk.ipynb](assignment_5_risk.ipynb) and [assignment_6_Weather.ipynb](assignment_6_Weather.ipynb) notebooks in [Google Colab](https://colab.research.google.com) [[5]](#5).
-
-For those who want to get hands-on with the notebooks, here are clickable links to open each assignment in Google Colab:
+I used [openincolab.com](https://openincolab.com) to generate the following clickable links, which open the [assignment2-weather.ipynb](assignment2-weather.ipynb), [assignments/assignment03-pie.ipynb](assignments/assignment03-pie.ipynb), [assignment_5_risk.ipynb](assignment_5_risk.ipynb) and [assignment_6_Weather.ipynb](assignment_6_Weather.ipynb) notebooks in [Google Colab](https://colab.research.google.com) [[5]](#5):
 
 - [Assignment 2 - Weather Analysis](https://colab.research.google.com/github/filipekojak88/PFDA/blob/main/assignments/assignment2-weather.ipynb)
   <br><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
@@ -93,7 +90,7 @@ For those who want to get hands-on with the notebooks, here are clickable links 
 - [Assignment 6 - Weather Data Analysis](https://colab.research.google.com/github/filipekojak88/PFDA/blob/main/assignments/assignment_6_Weather.ipynb)
   <br><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
-Feel free to fork the repository, make improvements, and submit a pull request. Your contributions will help enhance the project for future learners and data enthusiasts.
+Feel free to fork the repository, make improvements, and submit a pull request. Your contributions will help enhance this work for future learners and data enthusiasts.
 
 ## Author
 
@@ -110,3 +107,45 @@ I am a Quality Engineer with a background in Production Engineering and Manageme
 <a id="4">[4]</a> Basic writing and formatting syntax (no date) GitHub Docs. Available at: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax (Accessed: 29 April 2024).   
 
 <a id="5">[5]</a> (No date) Google colab. Available at: https://colab.research.google.com/ (Accessed: 15 December 2024). 
+
+<a id="6">[6]</a> W3schools.com (no date a) Pandas Getting Started. Available at: https://www.w3schools.com/python/pandas/pandas_getting_started.asp (Accessed: 15 December 2024). 
+
+<a id="7">[7]</a> Pyplot tutorial# (no date) Pyplot tutorial - Matplotlib 3.9.3 documentation. Available at: https://matplotlib.org/stable/tutorials/pyplot.html (Accessed: 15 December 2024). 
+
+<a id="8">[8]</a> Matplotlib.dates# (no date) matplotlib.dates - Matplotlib 3.9.3 documentation. Available at: https://matplotlib.org/stable/api/dates_api.html (Accessed: 15 December 2024). 
+
+<a id="9">[9]</a> PANDAS.READ_CSV# (no date) pandas.read_csv - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html (Accessed: 15 December 2024). 
+
+<a id="10">[10]</a> Pandas.dataframe.head# (no date) pandas.DataFrame.head - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.head.html (Accessed: 15 December 2024). 
+
+<a id="11">[11]</a> Pandas.dataframe.info# (no date) pandas.DataFrame.info - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.info.html (Accessed: 15 December 2024). 
+
+<a id="12">[12]</a> Python pandas integer YYYYMMDD to datetime (2014) Stack Overflow. Available at: https://stackoverflow.com/questions/27506367/python-pandas-integer-yyyymmdd-to-datetime (Accessed: 15 December 2024). 
+  
+<a id="13">[13]</a> BigPlot (2022) Explanation of fig, ax from plt.subplots() | Matplotlib, YouTube. Available at: https://www.youtube.com/watch?v=Tqph7_qMujk (Accessed: 15 December 2024). 
+  
+<a id="14">[14]</a> GeeksforGeeks (2024) How to change the figure size with subplots in Matplotlib, GeeksforGeeks. Available at: https://www.geeksforgeeks.org/how-to-change-the-figure-size-with-subplots-in-matplotlib/ (Accessed: 15 December 2024). 
+  
+<a id="15">[15]</a> List of named colors# (no date) List of named colors - Matplotlib 3.9.3 documentation. Available at: https://matplotlib.org/stable/gallery/color/named_colors.html (Accessed: 15 December 2024). 
+
+<a id="16">[16]</a> Matplotlib.axes.axes.legend# (no date) matplotlib.axes.Axes.legend - Matplotlib 3.9.3 documentation. Available at: https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.legend.html (Accessed: 15 December 2024). 
+
+<a id="17">[17]</a> GeeksforGeeks (2020) Matplotlib.axes.Axes.set() in Python, GeeksforGeeks. Available at: https://www.geeksforgeeks.org/matplotlib-axes-axes-set-in-python/ (Accessed: 15 December 2024). 
+  
+<a id="18">[18]</a> Matplotlib Dateformatter for axis label not working (2015) Stack Overflow. Available at: https://stackoverflow.com/questions/33743394/matplotlib-dateformatter-for-axis-label-not-working (Accessed: 15 December 2024). 
+  
+<a id="19">[19]</a> Rotate Axis Tick labels (2012) Stack Overflow. Available at: https://stackoverflow.com/questions/10998621/rotate-axis-tick-labels (Accessed: 15 December 2024). 
+  
+<a id="20">[20]</a> Matplotlib Adding Grid Lines (no date) W3schools.com. Available at: https://www.w3schools.com/python/matplotlib_grid.asp (Accessed: 15 December 2024). 
+  
+<a id="21">[21]</a> Matplotlib - annotations (no date) Tutorialspoint. Available at: https://www.tutorialspoint.com/matplotlib/matplotlib_annotations.htm (Accessed: 15 December 2024). 
+  
+<a id="22">[22]</a>  Arrow properties in matplotlib annotate (2017) Stack Overflow. Available at: https://stackoverflow.com/questions/44489900/arrow-properties-in-matplotlib-annotate (Accessed: 15 December 2024). 
+
+<a id="23">[23]</a> Create an arrow with gradient color (2012) Stack Overflow. Available at: https://stackoverflow.com/questions/11058072/create-an-arrow-with-gradient-color (Accessed: 15 December 2024). 
+  
+<a id="24">[24]</a> Annotations# (no date) Annotations - Matplotlib 3.9.3 documentation. Available at: https://matplotlib.org/stable/users/explain/text/annotations.html (Accessed: 15 December 2024). 
+
+<a id="25">[25]</a> Matplotlib.pyplot.text# (no date) matplotlib.pyplot.text - Matplotlib 3.9.3 documentation. Available at: https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.text.html (Accessed: 15 December 2024). 
+  
+<a id="26">[26]</a> How to center an annotation horizontally over a point in matplotlib? (no date) Tutorialspoint. Available at: https://www.tutorialspoint.com/how-to-center-an-annotation-horizontally-over-a-point-in-matplotlib (Accessed: 15 December 2024). 
