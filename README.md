@@ -1,6 +1,6 @@
 # PFDA
 
-![Programming](/Users/filipecarvalho/Desktop/PFDA/assignments/10-Reasons-To-Take-A-Data-Science-Course.jpeg)
+![Programming](https://usa.bootcampcdn.com/wp-content/uploads/sites/108/2021/09/tes_dta_blog_image_8-850x412.jpg)
 *Programming for Data Analytics* [[1]](#1)  
 
 ## About this repository
