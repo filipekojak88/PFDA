@@ -149,3 +149,17 @@ I am a Quality Engineer with a background in Production Engineering and Manageme
 <a id="25">[25]</a> Matplotlib.pyplot.text# (no date) matplotlib.pyplot.text - Matplotlib 3.9.3 documentation. Available at: https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.text.html (Accessed: 15 December 2024). 
   
 <a id="26">[26]</a> How to center an annotation horizontally over a point in matplotlib? (no date) Tutorialspoint. Available at: https://www.tutorialspoint.com/how-to-center-an-annotation-horizontally-over-a-point-in-matplotlib (Accessed: 15 December 2024). 
+  
+<a id="27">[27]</a> W3schools.com (no date) Python String split() Method. Available at: https://www.w3schools.com/python/ref_string_split.asp#:~:text=The%20split()%20method%20splits,number%20of%20elements%20plus%20one. (Accessed: 15 December 2024). 
+  
+<a id="28">[28]</a> Pandas .values_count() & .plot(): Python analysis tutorial - mode (2016) Mode Resources. Available at: https://mode.com/python-tutorial/counting-and-plotting-in-python (Accessed: 15 December 2024). 
+  
+<a id="29">[29]</a> Matplotlib.pyplot.pie# (no date) matplotlib.pyplot.pie - Matplotlib 3.9.3 documentation. Available at: https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.pie.html (Accessed: 15 December 2024). 
+  
+<a id="30">[30]</a> How to equalise gap width for an exploded pie chart in matplotlib (2022) Stack Overflow. Available at: https://stackoverflow.com/questions/73038502/how-to-equalise-gap-width-for-an-exploded-pie-chart-in-matplotlib (Accessed: 15 December 2024). 
+
+<a id="31">[31]</a> How do I use MATPLOTLIB AUTOPCT? (2011) Stack Overflow. Available at: https://stackoverflow.com/questions/6170246/how-do-i-use-matplotlib-autopct (Accessed: 15 December 2024). 
+  
+<a id="32">[32]</a> Pie charts# (no date) Pie charts - Matplotlib 3.9.3 documentation. Available at: https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html (Accessed: 15 December 2024). 
+  
+<a id="33">[33]</a> How to make a pie chart smaller with Matplotlib (2015) Stack Overflow. Available at: https://stackoverflow.com/questions/29786807/how-to-make-a-pie-chart-smaller-with-matplotlib (Accessed: 15 December 2024). 
