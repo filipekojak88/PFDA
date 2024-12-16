@@ -163,3 +163,16 @@ I am a Quality Engineer with a background in Production Engineering and Manageme
 <a id="32">[32]</a> Pie charts# (no date) Pie charts - Matplotlib 3.9.3 documentation. Available at: https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html (Accessed: 15 December 2024). 
   
 <a id="33">[33]</a> How to make a pie chart smaller with Matplotlib (2015) Stack Overflow. Available at: https://stackoverflow.com/questions/29786807/how-to-make-a-pie-chart-smaller-with-matplotlib (Accessed: 15 December 2024). 
+  
+<a id="34">[34]</a> The absolute basics for beginners# (no date) NumPy. Available at: https://numpy.org/doc/2.1/user/absolute_beginners.html (Accessed: 15 December 2024). 
+   
+<a id="35">[35]</a> Numpy.random.randint# (no date) numpy.random.randint - NumPy v2.1 Manual. Available at: https://numpy.org/doc/2.1/reference/random/generated/numpy.random.randint.html (Accessed: 16 December 2024). 
+  
+<a id="36">[36]</a> Malli (2024) NumPy sort array, Spark By {Examples}. Available at: https://sparkbyexamples.com/python/numpy-sort-arrays-examples/#:~:text=You%20can%20sort%20a%20NumPy,order%20of%20the%20sorted%20array (Accessed: 16 December 2024). 
+
+<a id="37">[37]</a> Matplotlib.pyplot.figure# (no date) matplotlib.pyplot.figure - Matplotlib 3.9.3 documentation. Available at: https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.figure.html (Accessed: 16 December 2024). 
+  
+<a id="38">[38]</a> Matplotlib.pyplot.bar# (no date) matplotlib.pyplot.bar - Matplotlib 3.9.3 documentation. Available at: https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.bar.html (Accessed: 16 December 2024). 
+
+<a id="39">[39]</a> Matplotlib.pyplot# (no date) matplotlib.pyplot - Matplotlib 3.9.3 documentation. Available at: https://matplotlib.org/stable/api/pyplot_summary.html (Accessed: 16 December 2024). 
+
