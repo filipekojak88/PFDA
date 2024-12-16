@@ -185,5 +185,29 @@ I am a Quality Engineer with a background in Production Engineering and Manageme
 <a id="43">[43]</a> Python:matplotlib: Pyplot: .hist() (no date) Codecademy. Available at: https://www.codecademy.com/resources/docs/matplotlib/pyplot/hist (Accessed: 16 December 2024). 
   
 <a id="44">[44]</a> Histogram outlined by added edgecolor (2017) Stack Overflow. Available at: https://stackoverflow.com/questions/42741687/histogram-outlined-by-added-edgecolor (Accessed: 16 December 2024). 
-  
+   
 <a id="45">[45]</a> MATPLOTLIB.PYPLOT.TIGHT_LAYOUT# (no date) matplotlib.pyplot.tight_layout - Matplotlib 3.9.3 documentation. Available at: https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.tight_layout.html (Accessed: 16 December 2024). 
+  
+<a id="46">[46]</a> Pandas.dataframe.describe# (no date) pandas.DataFrame.describe - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html (Accessed: 16 December 2024). 
+  
+<a id="47">[47]</a> Pandas.to_datetime# (no date) pandas.to_datetime - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html (Accessed: 16 December 2024). 
+  
+<a id="48">[48]</a> Matplotlib.pyplot.plot# (no date) matplotlib.pyplot.plot - Matplotlib 3.9.3 documentation. Available at: https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html (Accessed: 16 December 2024). 
+  
+<a id="49">[49]</a> Pandas.dataframe.groupby# (no date) pandas.DataFrame.groupby - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html (Accessed: 16 December 2024). 
+  
+<a id="50">[50]</a> Pandas.dataframe.mean# (no date) pandas.DataFrame.mean - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.mean.html (Accessed: 16 December 2024). 
+   
+<a id="51">[51]</a> GeeksforGeeks (2024) Python strftime() function, GeeksforGeeks. Available at: https://www.geeksforgeeks.org/python-strftime-function/ (Accessed: 16 December 2024). 
+  
+<a id="52">[52]</a> Pandas.dataframe.sort_index# (no date) pandas.DataFrame.sort_index - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sort_index.html (Accessed: 16 December 2024). 
+  
+<a id="53">[53]</a> Pandas.dataframe.isna# (no date) pandas.DataFrame.isna - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.isna.html (Accessed: 16 December 2024). 
+  
+<a id="54">[54]</a> Pandas.dataframe.rolling# (no date) pandas.DataFrame.rolling - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.rolling.html (Accessed: 16 December 2024). 
+   
+<a id="55">[55]</a> Pandas.core.groupby.dataframegroupby.max# (no date) pandas.core.groupby.DataFrameGroupBy.max - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.core.groupby.DataFrameGroupBy.max.html (Accessed: 16 December 2024). 
+  
+<a id="56">[56]</a> Pandas.series.dt.to_period# (no date) pandas.Series.dt.to_period - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.to_period.html (Accessed: 16 December 2024). 
+  
+<a id="56">[56]</a> Pandas.dataframe.to_timestamp# (no date) pandas.DataFrame.to_timestamp - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_timestamp.html (Accessed: 16 December 2024). 
