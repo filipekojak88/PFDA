@@ -175,4 +175,15 @@ I am a Quality Engineer with a background in Production Engineering and Manageme
 <a id="38">[38]</a> Matplotlib.pyplot.bar# (no date) matplotlib.pyplot.bar - Matplotlib 3.9.3 documentation. Available at: https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.bar.html (Accessed: 16 December 2024). 
 
 <a id="39">[39]</a> Matplotlib.pyplot# (no date) matplotlib.pyplot - Matplotlib 3.9.3 documentation. Available at: https://matplotlib.org/stable/api/pyplot_summary.html (Accessed: 16 December 2024). 
-
+  
+<a id="40">[40]</a> W3schools.com (no date) W3Schools Online Web Tutorials. Available at: https://www.w3schools.com/python/ref_func_min.asp (Accessed: 16 December 2024). 
+  
+<a id="41">[41]</a> Gruppetta, S. (2024) Using the LEN() function in Python, Real Python. Available at: https://realpython.com/len-python-function/ (Accessed: 16 December 2024). 
+  
+<a id="42">[42]</a> W3schools.com (no date a) W3Schools Online Web Tutorials. Available at: https://www.w3schools.com/python/ref_list_append.asp (Accessed: 16 December 2024). 
+  
+<a id="43">[43]</a> Python:matplotlib: Pyplot: .hist() (no date) Codecademy. Available at: https://www.codecademy.com/resources/docs/matplotlib/pyplot/hist (Accessed: 16 December 2024). 
+  
+<a id="44">[44]</a> Histogram outlined by added edgecolor (2017) Stack Overflow. Available at: https://stackoverflow.com/questions/42741687/histogram-outlined-by-added-edgecolor (Accessed: 16 December 2024). 
+  
+<a id="45">[45]</a> MATPLOTLIB.PYPLOT.TIGHT_LAYOUT# (no date) matplotlib.pyplot.tight_layout - Matplotlib 3.9.3 documentation. Available at: https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.tight_layout.html (Accessed: 16 December 2024). 
