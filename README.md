@@ -212,4 +212,30 @@ I am a Quality Engineer with a background in Production Engineering and Manageme
   
 <a id="56">[56]</a> Pandas.dataframe.to_timestamp# (no date) pandas.DataFrame.to_timestamp - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_timestamp.html (Accessed: 16 December 2024). 
 
-<a id="57">[57]</a> 
+<a id="57">[57]</a> https://westerndevelopment.ie/wp-content/uploads/2022/10/Growth-of-Onshore-to-Offshore-Wind-Atlantic-Region-Full-Report.pdf
+
+<a id="58">[58]</a> https://www.met.ie/climate/available-data/historical-data
+
+<a id="59">[59]</a> https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland
+
+<a id="60">[60]</a> https://www.nordex-online.com/en/product/n149-4-0-4-5/
+
+<a id="61">[61]</a> https://www.nordex-online.com/en/product/n149-5-x/
+
+<a id="62">[62]</a> https://en.wind-turbine-models.com/turbines/71-vestas-v52
+
+<a id="63">[63]</a> https://www.thewindpower.net/turbine_en_275_siemens_swt-3.0-101.php
+
+<a id="64">[64]</a> 
+
+<a id="65">[65]</a> 
+
+<a id="66">[66]</a> 
+
+<a id="67">[67]</a> 
+
+<a id="68">[68]</a> 
+
+<a id="69">[69]</a>
+
+<a id="70">[70]</a> 
