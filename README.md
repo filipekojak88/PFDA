@@ -218,13 +218,13 @@ I am a Quality Engineer with a background in Production Engineering and Manageme
 
 <a id="59">[59]</a> https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland
 
-<a id="60">[60]</a> https://www.nordex-online.com/en/product/n149-4-0-4-5/
+<a id="60">[60]</a> https://en.wind-turbine-models.com/turbines/71-vestas-v52
 
-<a id="61">[61]</a> https://www.nordex-online.com/en/product/n149-5-x/
+<a id="61">[61]</a> 
 
-<a id="62">[62]</a> https://en.wind-turbine-models.com/turbines/71-vestas-v52
+<a id="62">[62]</a> 
 
-<a id="63">[63]</a> https://www.thewindpower.net/turbine_en_275_siemens_swt-3.0-101.php
+<a id="63">[63]</a> 
 
 <a id="64">[64]</a> 
 
