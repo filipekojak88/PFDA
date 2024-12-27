@@ -216,19 +216,19 @@ I am a Quality Engineer with a background in Production Engineering and Manageme
 
 <a id="58">[58]</a> https://www.met.ie/climate/available-data/historical-data
 
-<a id="59">[59]</a> https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland
+<a id="59">[59]</a> https://windenergy.fandom.com/wiki/Wind_turbine
 
-<a id="60">[60]</a> https://en.wind-turbine-models.com/turbines/71-vestas-v52
+<a id="60">[60]</a> https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland
 
-<a id="61">[61]</a> 
+<a id="61">[61]</a> https://en.wind-turbine-models.com/turbines/71-vestas-v52
 
-<a id="62">[62]</a> 
+<a id="62">[62]</a> https://ocw.tudelft.nl/wp-content/uploads/introductionwindenergyhfd1.pdf
 
-<a id="63">[63]</a> 
+<a id="63">[63]</a> https://en.wikipedia.org/wiki/Density_of_air#:~:text=At%20101.325%20kPa%20(abs)%20and%2015%20°C%20(59,International%20Standard%20Atmosphere%20(ISA)
 
-<a id="64">[64]</a> 
+<a id="64">[64]</a> https://en.wikipedia.org/wiki/Knot_(unit)#:~:text=The%20knot%20(%2Fn%C9%92t,or%200.514%20m%2Fs).
 
-<a id="65">[65]</a> 
+<a id="65">[65]</a> https://www.ncl.ac.uk/webtemplate/ask-assets/external/maths-resources/core-mathematics/geometry/geometry-of-a-circle.html#:~:text=The%20distance%20around%20the%20boundary,%3Dd%202%20r%20%3D%20d%20.
 
 <a id="66">[66]</a> 
 
