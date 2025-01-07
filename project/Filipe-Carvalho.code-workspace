@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../Filipe-Carvalho"
+		},
+		{
+			"name": "PFDA-courseware",
+			"path": "../../PFDA-courseware"
+		},
+		{
+			"name": "PFDA",
+			"path": ".."
+		},
+		{
+			"name": "computer_infrastructure",
+			"path": "../../computer_infrastructure"
+		}
+	],
+	"settings": {}
+}
