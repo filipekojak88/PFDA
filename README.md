@@ -210,32 +210,98 @@ I am a Quality Engineer with a background in Production Engineering and Manageme
   
 <a id="56">[56]</a> Pandas.series.dt.to_period# (no date) pandas.Series.dt.to_period - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.to_period.html (Accessed: 16 December 2024). 
   
-<a id="56">[56]</a> Pandas.dataframe.to_timestamp# (no date) pandas.DataFrame.to_timestamp - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_timestamp.html (Accessed: 16 December 2024). 
+<a id="57">[57]</a> Pandas.dataframe.to_timestamp# (no date) pandas.DataFrame.to_timestamp - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_timestamp.html (Accessed: 16 December 2024). 
+   
+<a id="58">[58]</a> Historical data (no date) Met Éireann - The Irish Meteorological Service. Available at: https://www.met.ie/climate/available-data/historical-data (Accessed: 12 January 2025). 
+  
+<a id="59">[59]</a> Met éireann - the Irish Meteorological Service (no date) Met Éireann - The Irish Meteorological Service. Available at: https://www.met.ie/ (Accessed: 12 January 2025).
 
-<a id="57">[57]</a> https://westerndevelopment.ie/wp-content/uploads/2022/10/Growth-of-Onshore-to-Offshore-Wind-Atlantic-Region-Full-Report.pdf
+<a id="60">[60]</a> Pandas.dataframe.replace# (no date) pandas.DataFrame.replace - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.replace.html (Accessed: 12 January 2025). 
 
-<a id="58">[58]</a> https://www.met.ie/climate/available-data/historical-data
+<a id="61">[61]</a> Sat, S. by admin on (no date) Admin, Interactive Chaos. Available at: https://interactivechaos.com/en/python/function/numpynan (Accessed: 12 January 2025). 
 
-<a id="59">[59]</a> https://windenergy.fandom.com/wiki/Wind_turbine
+<a id="62">[62]</a> Pandas.dataframe.isnull# (no date) pandas.DataFrame.isnull - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.isnull.html (Accessed: 12 January 2025). 
 
-<a id="60">[60]</a> https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland
+<a id="63">[63]</a> Pandas.dataframe.dropna# (no date) pandas.DataFrame.dropna - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dropna.html (Accessed: 12 January 2025). 
 
-<a id="61">[61]</a> https://en.wind-turbine-models.com/turbines/71-vestas-v52
+<a id="64">[64]</a> Pandas.dataframe.isna# (no date) pandas.DataFrame.isna - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.isna.html (Accessed: 12 January 2025). 
 
-<a id="62">[62]</a> https://ocw.tudelft.nl/wp-content/uploads/introductionwindenergyhfd1.pdf
+<a id="65">[65]</a> Pandas to_numeric (no date) Stack Overflow. Available at: https://stackoverflow.com/questions/69746592/pandas-to-numeric (Accessed: 12 January 2025). 
 
-<a id="63">[63]</a> https://en.wikipedia.org/wiki/Density_of_air#:~:text=At%20101.325%20kPa%20(abs)%20and%2015%20°C%20(59,International%20Standard%20Atmosphere%20(ISA)
+<a id="66">[66]</a> W3schools.com (no date) W3Schools Online Web Tutorials. Available at: https://www.w3schools.com/python/pandas/ref_df_astype.asp (Accessed: 12 January 2025). 
 
-<a id="64">[64]</a> https://en.wikipedia.org/wiki/Knot_(unit)#:~:text=The%20knot%20(%2Fn%C9%92t,or%200.514%20m%2Fs).
+<a id="67">[67]</a> Pandas.dataframe.dtypes# (no date) pandas.DataFrame.dtypes - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dtypes.html (Accessed: 12 January 2025). 
 
-<a id="65">[65]</a> https://www.ncl.ac.uk/webtemplate/ask-assets/external/maths-resources/core-mathematics/geometry/geometry-of-a-circle.html#:~:text=The%20distance%20around%20the%20boundary,%3Dd%202%20r%20%3D%20d%20.
+<a id="68">[68]</a> Wiki, C. to W.E. (no date) Wind Turbine, Wind Energy Wiki. Available at: https://windenergy.fandom.com/wiki/Wind_turbine (Accessed: 12 January 2025). 
 
-<a id="66">[66]</a> https://en.wikipedia.org/wiki/Irish_calendar
+<a id="69">[69]</a> List of wind farms in the Republic of Ireland (2024) Wikipedia. Available at: https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland (Accessed: 12 January 2025). 
 
-<a id="67">[67]</a> 
+<a id="70">[70]</a> Bauer, L. (no date) Vestas V52, Vestas V52 - 850,00 kW - Wind turbine. Available at: https://en.wind-turbine-models.com/turbines/71-vestas-v52 (Accessed: 12 January 2025). 
 
-<a id="68">[68]</a> 
+<a id="71">[71]</a> (No date) Introduction to wind energy. Available at: https://ocw.tudelft.nl/wp-content/uploads/introductionwindenergyhfd1.pdf (Accessed: 12 January 2025).
 
-<a id="69">[69]</a>
+<a id="72">[72]</a> Density of air (2025) Wikipedia. Available at: https://en.wikipedia.org/wiki/Density_of_air (Accessed: 12 January 2025). 
 
-<a id="70">[70]</a> 
+<a id="73">[73]</a> Knot (unit) (2024) Wikipedia. Available at: https://en.wikipedia.org/wiki/Knot_(unit)#:~:text=The%20knot%20(%2Fn%C9%92t,or%200.514%20m%2Fs) (Accessed: 12 January 2025). 
+
+<a id="74">[74]</a> (No date) Numeracy, Maths and statistics - academic skills kit. Available at: https://www.ncl.ac.uk/webtemplate/ask-assets/external/maths-resources/core-mathematics/geometry/geometry-of-a-circle.html#:~:text=The%20distance%20around%20the%20boundary,%3Dd%202%20r%20%3D%20d%20 (Accessed: 12 January 2025). 
+
+<a id="75">[75]</a> (No date a) Chatgpt. Available at: https://chatgpt.com/ (Accessed: 12 January 2025). 
+
+<a id="76">[76]</a> Pandas.dataframe.apply# (no date) pandas.DataFrame.apply - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.apply.html (Accessed: 12 January 2025). 
+
+<a id="77">[77]</a> Pandas.series.dt.hour# (no date) pandas.Series.dt.hour - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.hour.html (Accessed: 12 January 2025). 
+
+<a id="78">[78]</a> Matplotlib.pyplot.scatter# (no date) matplotlib.pyplot.scatter - Matplotlib 3.10.0 documentation. Available at: https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html (Accessed: 12 January 2025). 
+
+<a id="79">[79]</a> Pandas.series.dt.month# (no date) pandas.Series.dt.month - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.month.html (Accessed: 12 January 2025). 
+
+<a id="80">[80]</a> Pandas.DataFrame.map# (no date) pandas.DataFrame.map - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.map.html (Accessed: 12 January 2025). 
+
+<a id="81">[81]</a> Irish calendar (2024) Wikipedia. Available at: https://en.wikipedia.org/wiki/Irish_calendar (Accessed: 12 January 2025). 
+
+<a id="82">[82]</a> GeeksforGeeks (2024) Pandas series dt.year: Extract year part from datetime series, GeeksforGeeks. Available at: https://www.geeksforgeeks.org/pandas-series-dt-year/ (Accessed: 12 January 2025). 
+
+<a id="83">[83]</a> Linregress# (no date) linregress - SciPy v1.15.1 Manual. Available at: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html (Accessed: 12 January 2025). 
+
+<a id="84">[84]</a> Linear regression (2024) Wikipedia. Available at: https://en.wikipedia.org/wiki/Linear_regression (Accessed: 12 January 2025). 
+
+<a id="85">[85]</a> How to make a 3D scatter plot (no date) Stack Overflow. Available at: https://stackoverflow.com/questions/1985856/how-to-make-a-3d-scatter-plot (Accessed: 12 January 2025). 
+
+<a id="86">[86]</a> Matplotlib.axes.Axes.scatter# (no date) matplotlib.axes.Axes.scatter - Matplotlib 3.10.0 documentation. Available at: https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.scatter.html (Accessed: 12 January 2025). 
+
+<a id="87">[87]</a> GeeksforGeeks (2020) Matplotlib.pyplot.colorbar() function in Python, GeeksforGeeks. Available at: https://www.geeksforgeeks.org/matplotlib-pyplot-colorbar-function-in-python/ (Accessed: 12 January 2025). 
+
+<a id="88">[88]</a> Statsmodels.tools.tools.add_constant¶ (no date) statsmodels.tools.tools.add_constant - statsmodels 0.15.0 (+594). Available at: https://www.statsmodels.org/dev/generated/statsmodels.tools.tools.add_constant.html (Accessed: 12 January 2025). 
+
+<a id="89">[89]</a> Statsmodels.regression.linear_model.ols¶ (no date) statsmodels.regression.linear_model.OLS - statsmodels 0.15.0 (+594). Available at: https://www.statsmodels.org/dev/generated/statsmodels.regression.linear_model.OLS.html (Accessed: 12 January 2025). 
+
+<a id="90">[90]</a> Generalized linear models¶ (no date) Generalized Linear Models - statsmodels 0.15.0 (+594). Available at: https://www.statsmodels.org/dev/examples/notebooks/generated/glm.html#Model-Fit-and-summary (Accessed: 12 January 2025). 
+
+<a id="91">[91]</a> Pandas.dataframe.set_index# (no date) pandas.DataFrame.set_index - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.set_index.html (Accessed: 12 January 2025). 
+
+<a id="92">[92]</a> Luna, J.C. (2024) Pandas resample with resample() and asfreq(), DataCamp. Available at: https://www.datacamp.com/tutorial/pandas-resample-asfreq (Accessed: 12 January 2025). 
+
+<a id="93">[93]</a> GeeksforGeeks (2022) Python: Pandas dataframe.rolling(), GeeksforGeeks. Available at: https://www.geeksforgeeks.org/python-pandas-dataframe-rolling/ (Accessed: 12 January 2025). 
+
+<a id="94">[94]</a> Zach BobbittHey there. My name is Zach Bobbitt. I have a Masters of Science degree in Applied Statistics and I’ve worked on machine learning algorithms for professional businesses in both healthcare and retail. I’m passionate about statistics (2024) How to calculate a rolling standard deviation in Pandas, Statology. Available at: https://www.statology.org/pandas-rolling-standard-deviation/ (Accessed: 12 January 2025). 
+
+<a id="95">[95]</a> Is there any problem with pandas shift method to create lag values? (no date) Stack Overflow. Available at: https://stackoverflow.com/questions/56771742/is-there-any-problem-with-pandas-shift-method-to-create-lag-values (Accessed: 12 January 2025). 
+
+<a id="96">[96]</a> Train_test_split (no date) scikit. Available at: https://scikit-learn.org/1.5/modules/generated/sklearn.model_selection.train_test_split.html (Accessed: 12 January 2025). 
+
+<a id="97">[97]</a> Linearregression (no date) scikit. Available at: https://scikit-learn.org/1.5/modules/generated/sklearn.linear_model.LinearRegression.html (Accessed: 12 January 2025). 
+
+<a id="98">[98]</a> GeeksforGeeks (2024) What is fit() method in Python’s Scikit-Learn?, GeeksforGeeks. Available at: https://www.geeksforgeeks.org/fit-method-in-pythons-scikit-lear/ (Accessed: 12 January 2025). 
+
+<a id="99">[99]</a> Statsmodels.tsa.arima.model.ARIMA¶ (no date) statsmodels.tsa.arima.model.ARIMA - statsmodels 0.14.4. Available at: https://www.statsmodels.org/stable/generated/statsmodels.tsa.arima.model.ARIMA.html (Accessed: 12 January 2025). 
+
+<a id="100">[100]</a> Statsmodels.tsa.statespace.sarimax.SARIMAXResults.get_forecast¶ (no date) statsmodels.tsa.statespace.sarimax.SARIMAXResults.get_forecast - statsmodels 0.15.0 (+594). Available at: https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAXResults.get_forecast.html (Accessed: 12 January 2025). 
+
+<a id="101">[101]</a> Statsmodels.tsa.base.prediction.predictionresults.summary_frame¶ (no date) statsmodels.tsa.base.prediction.PredictionResults.summary_frame - statsmodels 0.15.0 (+594). Available at: https://www.statsmodels.org/dev/generated/statsmodels.tsa.base.prediction.PredictionResults.summary_frame.html (Accessed: 12 January 2025). 
+
+<a id="102">[102]</a> Pandas.dataframe.tail# (no date) pandas.DataFrame.tail - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.tail.html (Accessed: 12 January 2025). 
+
+<a id="103">[103]</a> Quick start (2024) Prophet. Available at: https://facebook.github.io/prophet/docs/quick_start.html#python-api (Accessed: 12 January 2025). 
+
+<a id="104">[104]</a> Matplotlib.pyplot.fill_between# (no date) matplotlib.pyplot.fill_between - Matplotlib 3.10.0 documentation. Available at: https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.fill_between.html (Accessed: 12 January 2025). 
