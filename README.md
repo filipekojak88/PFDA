@@ -98,7 +98,7 @@ I used [openincolab.com](https://openincolab.com) to generate the following clic
 - [Assignment 6 - Weather Data Analysis](https://colab.research.google.com/github/filipekojak88/PFDA/blob/main/assignments/assignment_6_Weather.ipynb)
   <br><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
-- [Project - windspeed.ipynb]("https://colab.research.google.com/github/filipekojak88/PFDA/blob/main/project/windspeed.ipynb") 
+- [Project - windspeed.ipynb](https://colab.research.google.com/github/filipekojak88/PFDA/blob/main/project/windspeed.ipynb) 
   <br><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 Feel free to fork the repository, make improvements, and submit a pull request. Your contributions will help enhance this work for future learners and data enthusiasts.
