@@ -84,7 +84,7 @@ Contributions are particularly welcome in the following areas:
 - Improving the overall performance of the scripts.
 - Adding new features to extend the functionality of the notebooks.
 
-I used [openincolab.com](https://openincolab.com) to generate the following clickable links, which open the [assignment2-weather.ipynb](assignment2-weather.ipynb), [assignments/assignment03-pie.ipynb](assignments/assignment03-pie.ipynb), [assignment_5_risk.ipynb](assignment_5_risk.ipynb) and [assignment_6_Weather.ipynb](assignment_6_Weather.ipynb) notebooks in [Google Colab](https://colab.research.google.com) [[5]](#5):
+I used [openincolab.com](https://openincolab.com) to generate the following clickable links, which open the [assignment2-weather.ipynb](assignment2-weather.ipynb), [assignments/assignment03-pie.ipynb](assignments/assignment03-pie.ipynb), [assignment_5_risk.ipynb](assignment_5_risk.ipynb), [assignment_6_Weather.ipynb](assignment_6_Weather.ipynb) and [windspeed.ipynb](windspeed.ipynb) notebooks in [Google Colab](https://colab.research.google.com) [[5]](#5):
 
 - [Assignment 2 - Weather Analysis](https://colab.research.google.com/github/filipekojak88/PFDA/blob/main/assignments/assignment2-weather.ipynb)
   <br><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
@@ -96,6 +96,9 @@ I used [openincolab.com](https://openincolab.com) to generate the following clic
   <br><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
   
 - [Assignment 6 - Weather Data Analysis](https://colab.research.google.com/github/filipekojak88/PFDA/blob/main/assignments/assignment_6_Weather.ipynb)
+  <br><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+
+- [Project - windspeed.ipynb] ("https://colab.research.google.com/github/filipekojak88/PFDA/blob/main/project/windspeed.ipynb") 
   <br><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 Feel free to fork the repository, make improvements, and submit a pull request. Your contributions will help enhance this work for future learners and data enthusiasts.
